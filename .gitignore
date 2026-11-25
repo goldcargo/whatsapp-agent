@@ -1,0 +1,9 @@
+node_modules/
+# Node.js portátil instalado localmente (no se sube al repositorio)
+tools/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
